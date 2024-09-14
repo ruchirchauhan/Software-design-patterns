@@ -1,6 +1,7 @@
 # Most Used Software Design Patterns
+I started this for my interview preparation, and soon realized, there was no single place where I can find both a good explanation and C++ example implementations, therefore this repository. Hope this helps more people !
 
-## 3 types:
+## Broad 3 categories:
 ### 1. Creational(C):
 All about diferent ways to create objects
 ### 2. Structural(S):
