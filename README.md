@@ -22,7 +22,7 @@ Creational- [singleton](Creational/singleton.cpp) 8 | [builder](Creational/build
 
 Structural- [facade](Structural/facade.cpp) 6 | [adapter/bridge](Structural/adapter.cpp) 6 | [decorator](Structural/decorator.cpp) 4 | [proxy](Structural/proxy.cpp)
 
-Behavioural- [observer](Behavioural/observer.cpp) 9 | [strategy](Behavioural/strategy.cpp) 7 | [state](Behavioural/state.cpp) 2 | [iterator](Behavioural/iterator.cpp) 2 | [mediator](Behavioural/mediator.cpp)
+Behavioural- [observer](Behavioural/observer.cpp) 9 | [strategy](Behavioural/strategy.cpp) 7 | [state](Behavioural/state.cpp) 2 | [iterator](Behavioural/iterator.cpp) 2
 
 
 ### 2. Decreasing order of importance
@@ -50,7 +50,6 @@ S-prototype
 
 S-proxy
 
-B-mediator
 
 ## Other helpful resources:
 https://refactoring.guru/design-patterns
