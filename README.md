@@ -1,5 +1,5 @@
 # Most Used Software Design Patterns
-I curate this list for my interview preparation, and soon realized, there was no single place where I can find both a good explanation and C++ example implementations, therefore this repository. Hope this helps more people !
+I curated this list for my interview preparation, and soon realized, there was no single place where I can find both a good explanation and C++ example implementations, therefore this repository. Hope this helps more people !
 
 All examples are under their respective category folders and every design pattern cpp file containes detailed explanation in form of comments.
 
